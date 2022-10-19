@@ -1,4 +1,4 @@
-# Level 1 Scenario
+# Scenario
 
 Let's take a simple example for this onboarding session to get you familiar with the product. &nbsp;In this onboarding session, you will help us in creating a IT equipment pickup scenario.
 
