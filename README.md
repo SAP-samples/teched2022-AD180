@@ -1,12 +1,12 @@
-# AD180 - Visually Build a Full-Stack Application with SAP SAP Build Apps
+# AD180 - Visually Build a Full-Stack Application with SAP Build Apps
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called AD180 - Visually Build a Full-Stack Application with SAP SAP Build Apps.  
+This repository contains the material for the SAP TechEd 2022 session called AD180 - Visually Build a Full-Stack Application with SAP Build Apps.  
 
 ## Overview
 
-This session introduces attendees to SAP SAP Build Apps to create full-stack development capabilities to the next generation of citizen development: visual cloud functions. Explore the new back-end service that allows users to visually build fully functional applications in one intuitive, no-code environment, with cloud-hosted data models. We'll also take a first look into serverless business logic, and more.
+This session introduces attendees to SAP Build Apps to create full-stack development capabilities to the next generation of citizen development: visual cloud functions. Explore the new back-end service that allows users to visually build fully functional applications in one intuitive, no-code environment, with cloud-hosted data models. We'll also take a first look into serverless business logic, and more.
 
 ## Requirements
 
