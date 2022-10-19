@@ -1,10 +1,6 @@
-# Level 1 Heading
+# Level 1 Scenario
 
-In this exercise, you will...
-
-## Level 2 Heading
-
-After completing these steps you will have....
+Let's take a simple example for this onboarding session to get you familiar with the product. &nbsp;In this onboarding session, you will help us in creating a IT equipment pickup scenario.
 
 1.	Click here.
 <br>![](/exercises/ex0/images/00_00_0010.png)
@@ -22,5 +18,4 @@ After completing these steps you will have....
 
 ## Summary
 
-Now that you have ... 
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+Now you can go to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
