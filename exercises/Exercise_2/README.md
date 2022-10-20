@@ -234,36 +234,100 @@ Now we see we have name configured but  dont have an object and variable for pr
 List item type= objects
 4. SAVE
 <br>![](/exercises/Exercise_2/images/image(52).png)
+
+Click on Place order to view the button logic in the Logic pane below. Drag and drop set app variable connector from Logic core
 <br>![](/exercises/Exercise_2/images/image(53).png)
+
+1. Click on variable name
+2.Select products
 <br>![](/exercises/Exercise_2/images/image(54).png)
+
+SAVE
 <br>![](/exercises/Exercise_2/images/image(55).png)
+
+1. select binding icon besidesCustom list
+2.Select Component properties
 <br>![](/exercises/Exercise_2/images/image(56).png)
+
+Select Another component's property or output value
 <br>![](/exercises/Exercise_2/images/image(57).png)
+
+Select component = basic list with selection on right 1
 <br>![](/exercises/Exercise_2/images/image(58).png)
+
+Select component property= basic list with selection on right 1 (Selected items) and then save
 <br>![](/exercises/Exercise_2/images/image(59).png)
 
 # Connecting Set App Variable
 
+
 <br>![](/exercises/Exercise_2/images/image(60).png)
+
+1.Click create record
+2. Click on Custom object
 <br>![](/exercises/Exercise_2/images/image(61).png)
+
+Click on product value
 <br>![](/exercises/Exercise_2/images/image(62).png)
+
+Select formula
 <br>![](/exercises/Exercise_2/images/image(63).png)
+
+
 <br>![](/exercises/Exercise_2/images/image(64).png)
+
+Use formula :
+
+
+PLUCK (appVars.product,"Id")
 <br>![](/exercises/Exercise_2/images/image(65).png)
+
+SAVE
 <br>![](/exercises/Exercise_2/images/image(66).png)
+
+
 <br>![](/exercises/Exercise_2/images/image(67).png)
 
 
 # Final Step : Add Dialogs&nbsp;
+
+Drag and Drop 2x Toast and connect to create record 
 <br>![](/exercises/Exercise_2/images/image(68).png)
+
+1.Click on the first toast
+2. then click the Toast message
 <br>![](/exercises/Exercise_2/images/image(69).png)
+
+Select output value of another node
 <br>![](/exercises/Exercise_2/images/image(70).png)
+
+1. Select Create Record from Select logic node
+2. then select name from select node output
+3.save
 <br>![](/exercises/Exercise_2/images/image(71).png)
+
+Select formula now
 <br>![](/exercises/Exercise_2/images/image(72).png)
+
+Type in formula :
+
+
+"order placed for"+ outputs["Create record"].response.name
+
+
+This is print the dialog eg: Order placed for Simon
 <br>![](/exercises/Exercise_2/images/image(73).png)
 
 # Open App in Preview Portal
 
+1. Click launch
+2. Click open App in preview portal
 <br>![](/exercises/Exercise_2/images/image(74).png)
+
+1,Select products you want
+2. Type in Name and
+3. Click Place order
 <br>![](/exercises/Exercise_2/images/image(75).png)
 
+
+Viola, Congratulations !! The order has been placed and we end our scenario here :)
