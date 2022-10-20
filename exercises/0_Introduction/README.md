@@ -6,4 +6,4 @@ Let's take a simple example for this onboarding session to get you familiar with
 
 ## Next Step
 
-Now you can go to - [Exercise 1 - AppGyver Cloud Function Project Creation](../Exercise_1/README.md)
+Now you can go to - [Exercise 1 - AppGyver Visual Cloud Function Project Creation](../Exercise_1/README.md)
