@@ -6,4 +6,4 @@ Let's take a simple example for this onboarding session to get you familiar with
 
 ## Next Step
 
-Now you can go to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+Now you can go to - [Exercise 1 - Exercise 1 Description](../Exercise_1/README.md)
