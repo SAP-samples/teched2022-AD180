@@ -46,11 +46,19 @@ Add new fields to your entity here. We will be adding "name" and "quantity " as 
 
 <br>![](/exercises/Exercise_1/images/image(4).png)
 
-Type in:Field name = nameField type = Text
+Type in:
+
+Field name = name
+
+Field type = Text
 
 <br>![](/exercises/Exercise_1/images/image(5).png)
 
-Type in:Field name = quantityField type = Number
+Type in:
+
+Field name = quantity
+
+Field type = Number
 
 <br>![](/exercises/Exercise_1/images/image(6).png)
 
@@ -59,9 +67,13 @@ Click Save
 <br>![](/exercises/Exercise_1/images/image(7).png)
 
 Type in:Field name = name 
+
 Field type = Text
+
 Field name = product
+
 Field Type = List
+
 <br>![](/exercises/Exercise_1/images/image(8).png)
 
 Your entities and their respective fields can now be viewed here
