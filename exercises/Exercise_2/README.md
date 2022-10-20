@@ -3,8 +3,10 @@
 Go back to Lobby and select AppGyver App to create the front - end
 <br>![](/exercises/Exercise_2/images/image(1).png)
 
+Give a project name, description (optional )and click create
 <br>![](/exercises/Exercise_2/images/image(2).png)
 
+This is your created Front end project UI
 <br>![](/exercises/Exercise_2/images/image(3).png)
 
 
