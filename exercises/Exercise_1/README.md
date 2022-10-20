@@ -1,10 +1,7 @@
 # Exercise 1 
 
 
-
-<br>![](exercises\Exercise_1\images\image_1.1.png)
-
-
+<br>![](/exercises/Exercise_1/images/image_1.1.png)
 Continue to - 
 
 ## Next Step
