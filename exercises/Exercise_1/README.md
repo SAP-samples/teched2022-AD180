@@ -31,6 +31,9 @@ Deployment Tab : Is used to deploy your backend to desired landscape
 
 
 
+<br>![](/exercises/Exercise_1/images/image (1).png)
+
+
 
 
 ## Next Step
