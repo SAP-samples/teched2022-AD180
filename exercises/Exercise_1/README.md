@@ -120,5 +120,5 @@ Save record
 
 ## Next Step
 
-Now you can go to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+Now you can go to - [Exercise 2](../Exercise_2/README.md)
 
