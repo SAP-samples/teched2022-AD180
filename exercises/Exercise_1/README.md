@@ -94,7 +94,13 @@ Click on the 3 dots against product and select browse data
 <br>![](/exercises/Exercise_1/images/image(16).png)
 
 
-Adding data :  name = mouse  quantity = 12  Save record
+Adding data :
+
+name = mouse  
+
+quantity = 12  
+
+Save record
 <br>![](/exercises/Exercise_1/images/image(17).png)
 
 
