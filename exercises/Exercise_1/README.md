@@ -2,7 +2,7 @@
 
 The Lobby is the initial landing page for the beta, allowing to create and manage your No Code and Low Code projects.
 
-<br>![](/exercises/Exercise_1/images/image_1.1.png)
+<br>![](/exercises/Exercise_1/images/image-1-1.png)
 
 
 
