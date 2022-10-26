@@ -1,6 +1,6 @@
 # Exercise 1 
 
-1. The Lobby is the initial landing page for the beta, allowing to create and manage your No Code and Low Code projects.
+1. The unified access is where you can create and manage your No Code and Low Code projects.
 
 <br>![](/exercises/Exercise_1/images/image-1-1.png)
 
@@ -18,7 +18,7 @@
 
 
 
-4. Your AppGyver Cloud Function Aka Backend is now created
+4. Your SAP Build Cloud Function Aka Backend is now created
 
 <br>![](/exercises/Exercise_1/images/image_1.4.png)
 
