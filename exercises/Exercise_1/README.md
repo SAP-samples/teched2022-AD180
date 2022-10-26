@@ -6,9 +6,9 @@ The Lobby is the initial landing page for the beta, allowing to create and manag
 
 
 
-Click on create on open an AppGyver Cloud Function project
+Click on "Application backend" to create your project
 
-<br>![](/exercises/Exercise_1/images/image_1.2.png)
+<br>![](/exercises/Exercise_1/images/image-1-2.png)
 
 
 
