@@ -12,13 +12,13 @@
 
 
 
-3. Enter in a Project name and Short Description(optional) and click on create
+3. Enter in a Project name and optional Short Description and click on 'create'
 
 <br>![](/exercises/Exercise_1/images/image_1.3.png)
 
 
 
-4. Your SAP Build Cloud Function Aka Backend is now created
+4. Your SAP Build backend project is now created
 
 <br>![](/exercises/Exercise_1/images/image_1.4.png)
 
