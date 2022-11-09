@@ -38,7 +38,7 @@ Deployment Tab : Is used to deploy your backend to desired landscape
 
 <br>![](/exercises/Exercise_1/images/image(2).png)
 
-8. Create a new entity "order" in similar fashion
+8. Create a new entity "order" in similar fashion. You can return to the main view by clicking outside any of the entities.
 
 <br>![](/exercises/Exercise_1/images/image(3).png)
 
