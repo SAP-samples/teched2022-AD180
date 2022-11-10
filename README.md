@@ -18,11 +18,7 @@ The exercises are divided into two parts. In part one we use the new No-Code per
 - [Exercise 1 - AppGyver Visual Cloud Function Project Creation](exercises/Exercise_1/)
 - [Exercise 2 - Front end App Creation](exercises/Exercise_2/)
    
-
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+ License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## How to obtain support
 
