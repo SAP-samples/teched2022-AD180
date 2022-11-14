@@ -20,9 +20,6 @@
 
 4. Your SAP Build backend project is now created
 
-<br>![](/exercises/Exercise_1/images/image_1.4.png)
-
-
 
 5. Enties Tab : Here you can create entities for your backend database
 Deployment Tab : Is used to deploy your backend to desired landscape
