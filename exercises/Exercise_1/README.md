@@ -83,21 +83,17 @@ Field type: "number"
 
 
 12. Click on the 3 dots against product and select browse data
-<br>![](/exercises/Exercise_1/images/image(15).png)
+<br>![](/exercises/Exercise_1/images/browse-data.png)
 
 
+Add a new data record:
 
-<br>![](/exercises/Exercise_1/images/image(16).png)
+name: "mouse"  
+
+quantity: 12  
 
 
-Adding data :
-
-name = mouse  
-
-quantity = 12  
-
-Save record
-<br>![](/exercises/Exercise_1/images/image(17).png)
+<br>![](/exercises/Exercise_1/images/browse-data-done.png)
 
 
 
