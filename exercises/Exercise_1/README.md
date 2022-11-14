@@ -66,6 +66,8 @@ Click Save
 
 <br>![](/exercises/Exercise_1/images/image(7).png)
 
+Do the same with the order entity. Add the following fields:
+
 Type in:Field name = name 
 
 Field type = Text
