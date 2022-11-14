@@ -43,37 +43,33 @@ Deployment Tab : Is used to deploy your backend to desired landscape
 
 <br>![](/exercises/Exercise_1/images/configure-fields.png)
 
-Type in:
+9.A Type in:
 
-Field name = name
+Field name: "name"
 
-Field type = Text
+Field type: "text"
 
 <br>![](/exercises/Exercise_1/images/product-name-field.png)
 
-Type in:
+9.B Type in:
 
-Field name = quantity
+Field name: "quantity"
 
-Field type = Number
+Field type: "number"
 
 <br>![](/exercises/Exercise_1/images/quantity-field.png)
 
-Click Save
+9.C Click Save
 
 <br>![](/exercises/Exercise_1/images/product-fields.png)
 
-Do the same with the order entity. Add the following fields:
 
-Type in:Field name = name 
+9.D Type in these 2 fields for the Order entity
 
-Field type = Text
-
-Field name = product
-
-Field Type = List
-
-Item Type = Text
+| Field name  | Field type | Item type
+| ------------- | ------------- |------------|
+| name  | Text  | -      
+| product | List  | Text
 
 <br>![](/exercises/Exercise_1/images/image(8).png)
 
