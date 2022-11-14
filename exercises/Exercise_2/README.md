@@ -1,6 +1,6 @@
 # Exercise 2 - Front end App Creation
 
-Go back to Lobby and select AppGyver App to create the front - end
+Go back to Lobby and select the Create button to create the frontend. Select Build an Application. Afterwards select "Web & Mobile Application" 
 <br>![](/exercises/Exercise_2/images/image(1).png)
 
 Give a project name, description (optional )and click create
