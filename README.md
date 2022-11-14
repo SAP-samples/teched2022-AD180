@@ -15,7 +15,7 @@ The exercises are divided into two parts. In part one we use the new No-Code per
 
 
 - [Getting Started - Scenario](exercises/0_Introduction/)
-- [Self-Regristration](exercises/1_Self-Registration/)
+- [Self-Registration](exercises/1_Self-Registration/)
 - [Exercise 1 - AppGyver Visual Cloud Function Project Creation](exercises/Exercise_1/)
 - [Exercise 2 - Front end App Creation](exercises/Exercise_2/)
    
