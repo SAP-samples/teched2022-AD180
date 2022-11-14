@@ -75,6 +75,7 @@ Field type = Text
 Field name = product
 
 Field Type = List
+
 Item Type = Text
 
 <br>![](/exercises/Exercise_1/images/image(8).png)
