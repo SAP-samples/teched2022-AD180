@@ -14,7 +14,7 @@
 
 3. Enter in a Project name and optional Short Description and click on 'create'
 
-<br>![](/exercises/Exercise_1/images/image_1.3.png)
+<br>![](/exercises/Exercise_1/images/create-cloud-functions-project.png)
 
 
 
@@ -33,11 +33,11 @@ Deployment Tab : Is used to deploy your backend to desired landscape
 
 7. Your "product" entity is now created. Your "product" entity can be edited here. 
 
-<br>![](/exercises/Exercise_1/images/image(2).png)
+<br>![](/exercises/Exercise_1/images/product.png)
 
 8. Create a new entity "order" in similar fashion. You can return to the main view by clicking outside any of the entities.
 
-<br>![](/exercises/Exercise_1/images/image(3).png)
+<br>![](/exercises/Exercise_1/images/product-and-order.png)
 
 9. Add new fields to your entity here. We will be adding "name" and "quantity " as the fields for product entity
 
