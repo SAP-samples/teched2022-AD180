@@ -24,12 +24,12 @@
 5. Enties Tab : Here you can create entities for your backend database
 Deployment Tab : Is used to deploy your backend to desired landscape
 
-<br>![](/exercises/Exercise_1/images/image_1.5.png)
+<br>![](/exercises/Exercise_1/images/empty-canvas.png)
 
 
 6. Click on Add new towards bottom right of your screen to add new Entities
 
-<br>![](/exercises/Exercise_1/images/image(1).png)
+<br>![](/exercises/Exercise_1/images/create-entity.png)
 
 7. Your "product" entity is now created. Your "product" entity can be edited here. 
 
