@@ -57,7 +57,7 @@ This automatically reflects in the backend if you check your Visual cloud functi
 Click component market
 <br>![](/exercises/Exercise_2/images/image(15).png)
 
-Type selection in the search tab and choose the first list
+Type selection in the search tab and choose "basic list with selection"
 <br>![](/exercises/Exercise_2/images/image(16).png)
 
 Click install
@@ -89,7 +89,7 @@ and click on content to type formula
 
 Type in the formula 
 
-source.record.quanity+ "available"
+source.record.quantity+ "available"
 
 
 This formula displays available quantity
@@ -279,7 +279,7 @@ Select formula
 Use formula :
 
 
-PLUCK (appVars.product,"Id")
+PLUCK(appVars.products,"id")
 <br>![](/exercises/Exercise_2/images/image(65).png)
 
 SAVE
