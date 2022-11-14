@@ -71,28 +71,15 @@ Field type: "number"
 | name  | Text  | -      
 | product | List  | Text
 
-<br>![](/exercises/Exercise_1/images/image(8).png)
+10. Your can now see your entities and the fields on the canvas
 
-10. Your entities and their respective fields can now be viewed here
-
-<br>![](/exercises/Exercise_1/images/image(9).png)
+<br>![](/exercises/Exercise_1/images/product-and-order-done.png)
 
 11. Click on deployments to deploy your changes and configurations. Click review and deploy
 
-<br>![](/exercises/Exercise_1/images/image(10).png)
+<br>![](/exercises/Exercise_1/images/deploy.png)
 
-Deploy to development
-
-<br>![](/exercises/Exercise_1/images/image(11).png)
-
-<br>![](/exercises/Exercise_1/images/image(12).png)
-
-Deployed timestamp is now available
-
-<br>![](/exercises/Exercise_1/images/image(13).png)
-
-
-<br>![](/exercises/Exercise_1/images/image(14).png)
+<br>![](/exercises/Exercise_1/images/deploy-green.png)
 
 
 12. Click on the 3 dots against product and select browse data
