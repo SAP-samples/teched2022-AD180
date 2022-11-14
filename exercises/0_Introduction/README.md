@@ -6,4 +6,4 @@ In this session we'll get to know SAP Build Apps through an example project. In 
 
 ## Next Step
 
-Now you can go to - [Exercise 1 - AppGyver Visual Cloud Function Project Creation](../Exercise_1/README.md)
+Now you can go to - [Self-Registration](../1_Self-Registration/README.md)
