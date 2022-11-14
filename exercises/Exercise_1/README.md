@@ -41,7 +41,7 @@ Deployment Tab : Is used to deploy your backend to desired landscape
 
 9. Add new fields to your entity here. We will be adding "name" and "quantity " as the fields for product entity
 
-<br>![](/exercises/Exercise_1/images/image(4).png)
+<br>![](/exercises/Exercise_1/images/configure-fields.png)
 
 Type in:
 
@@ -49,7 +49,7 @@ Field name = name
 
 Field type = Text
 
-<br>![](/exercises/Exercise_1/images/image(5).png)
+<br>![](/exercises/Exercise_1/images/product-name-field.png)
 
 Type in:
 
@@ -57,11 +57,11 @@ Field name = quantity
 
 Field type = Number
 
-<br>![](/exercises/Exercise_1/images/image(6).png)
+<br>![](/exercises/Exercise_1/images/quantity-field.png)
 
 Click Save
 
-<br>![](/exercises/Exercise_1/images/image(7).png)
+<br>![](/exercises/Exercise_1/images/product-fields.png)
 
 Do the same with the order entity. Add the following fields:
 
