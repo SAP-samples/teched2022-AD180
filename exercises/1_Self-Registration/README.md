@@ -1,6 +1,6 @@
 # Self-Registration process
 
-Link for registration:
+Go to the self-registration page with this link:
 https://ba-pub1-applicationdevelopment.lcnc.cfapps.eu10.hana.ondemand.com/lobby
 
 Click on the Register button at the buttom:
