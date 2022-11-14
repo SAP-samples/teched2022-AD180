@@ -12,6 +12,14 @@ Fill out our first name, last name and email adress:
 Enter a password and press the Register button
 <br>![](/exercises/1_Self-Registration/images/Register3.PNG)
 
+You should receive a mail from ias@notifications.sap.com.
+Click on the "Click here to activate your account" button.
+
+Afterwards your registration is completed.
+
+Now you can log in with the following link:
+https://ba-pub1-applicationdevelopment.lcnc.cfapps.eu10.hana.ondemand.com/lobby
+
 ## Next Step
 
 Now you can go to - [Exercise 1 - AppGyver Visual Cloud Function Project Creation](../Exercise_1/README.md)
