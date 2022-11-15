@@ -1,43 +1,43 @@
 # Exercise 2 - Front end App Creation
 
-Go back to Lobby and select the Create button to create the frontend. Select Build an Application. Afterwards select "Web & Mobile Application" 
+1. Go back to Lobby and select the Create button to create the frontend. Select Build an Application. Afterwards select "Web & Mobile Application" 
 <br>![](/exercises/Exercise_2/images/image(1).png)
 
-Give a project name, description (optional )and click create
+2. Give a project name, description (optional )and click create
 <br>![](/exercises/Exercise_2/images/image(2).png)
 
-This is your created Front end project UI
+3. This is your created Front end project UI
 <br>![](/exercises/Exercise_2/images/image(3).png)
 
 
 # Integrating Front end and Backend
 
-Click on the data tab
+4. Click on the data tab
 <br>![](/exercises/Exercise_2/images/image(4).png)
 
-You can add a backend integration from here
+5. You can add a backend integration from here
 <br>![](/exercises/Exercise_2/images/image(5).png)
 
-Select cloud function to navigate to your backend
+6. Select cloud function to navigate to your backend
 <br>![](/exercises/Exercise_2/images/image(6).png)
 
-Select the backend visual cloud function that you created;
+7. Select the backend visual cloud function that you created;
 <br>![](/exercises/Exercise_2/images/image(7).png)
 
-Install your integration
+8. Install your integration
 <br>![](/exercises/Exercise_2/images/image(8).png)
 
 
 <br>![](/exercises/Exercise_2/images/image(9).png)
 
-You can now select both these entities and click on Save to save your changes
+9. You can now select both these entities and click on Save to save your changes
 <br>![](/exercises/Exercise_2/images/image(10).png)
 
 
-1.Click on the data tab. 2. Select product to add your desired record. 3. Click Browse data
+10. Click on the data tab. Select the data entity Product to add your desired record. Click on Browse data
 <br>![](/exercises/Exercise_2/images/image(11).png)
 
-Add product:
+11. Add the new product:
 
 name : keyboard
 
@@ -47,45 +47,45 @@ quantity: 2
 
 <br>![](/exercises/Exercise_2/images/image(13).png)
 
-This automatically reflects in the backend if you check your Visual cloud function
+11. This automatically reflects in the backend if you check your Visual cloud function
 <br>![](/exercises/Exercise_2/images/image(14).png)
 
 # Creating Frond End UI
 
-Click component market
+12. Click component market
 <br>![](/exercises/Exercise_2/images/image(15).png)
 
-Type selection in the search tab and choose "basic list with selection"
+13. Type selection in the search tab and choose "basic list with selection"
 <br>![](/exercises/Exercise_2/images/image(16).png)
 
-Click install
+14. Click install
 <br>![](/exercises/Exercise_2/images/image(17).png)
 
-Drag the installed list into the UI
+15. Drag the installed list into the UI
 <br>![](/exercises/Exercise_2/images/image(18).png)
 
-Then configure this to my product 
+16. Then configure this to my product 
 <br>![](/exercises/Exercise_2/images/image(19).png)
 
-Click product
+17. Click product
 <br>![](/exercises/Exercise_2/images/image(20).png)
 
 From the field configuration, Drag
 
 
- Id-> Id
+ Id to Id
  
  
-name-> title
+name to title
 
 
-selected= false
+selected= type in "false"
 
 
 and click on content to type formula
 <br>![](/exercises/Exercise_2/images/image(21).png)
 
-Type in the formula 
+18. Type in the formula 
 
 source.record.quantity+ "available"
 
@@ -94,16 +94,16 @@ This formula displays available quantity
 eg: 12 available
 <br>![](/exercises/Exercise_2/images/image(22).png)
 
-1.Click on properties. 2. click filter
+19. Click on properties and click on filter afterwards
 <br>![](/exercises/Exercise_2/images/image(23).png)
 
-select object with properties
+20. select object with properties
 <br>![](/exercises/Exercise_2/images/image(24).png)
 
-Select add conditions
+21. Select add conditions
 <br>![](/exercises/Exercise_2/images/image(25).png)
 
-Add the condition :
+22. Add the condition :
 
 
 quantity greater than 0.
@@ -111,24 +111,22 @@ quantity greater than 0.
 
 This will ensure only products that have greater than zero are retrieved from the database
 
-Save and Exit
+23. Save and Exit
 <br>![](/exercises/Exercise_2/images/image(26).png)
 
-# Bearer authentication bug to be manuallyresolved
-
-Click on properties
+24. Click on properties
 <br>![](/exercises/Exercise_2/images/image(27).png)
 
-Click No value under authentication
+25. Click No value under authentication
 <br>![](/exercises/Exercise_2/images/image(28).png)
 
-Select object with properties
+26. Select object with properties
 <br>![](/exercises/Exercise_2/images/image(29).png)
 
-Type in anything or nothing under authentication token and then save
+27. Type in anything or nothing under authentication token and then save
 <br>![](/exercises/Exercise_2/images/image(30).png)
 
-Save and Exit
+28. Save and Exit
 <br>![](/exercises/Exercise_2/images/image(31).png)
 
 
@@ -136,16 +134,16 @@ Save and Exit
 
 <br>![](/exercises/Exercise_2/images/image(32).png)
 
-Click Data
+29. Click Data
 <br>![](/exercises/Exercise_2/images/image(33).png)
 
-Click Browse data
+30. Click Browse data
 <br>![](/exercises/Exercise_2/images/image(34).png)
 
-Click New record
+31. Click New record 
 <br>![](/exercises/Exercise_2/images/image(35).png)
 
-Product :
+Add the new product :
 
 
 name = webcam
@@ -156,26 +154,23 @@ quantity= 0
 
 # Fill in th UI form
 
-Title= Place an Order ;
+32. Go back to the UI canvas and changes the UI:
+
+33. Rename the Title to "Place an Order" ;
+
+34. Rename the text field to "Select the items you want to order"
+
+35. Drag another title below the list and rename it to "Your Details":
+
+36. Drag an input field and rename it to "Name"
+
+37. Add a button at the buttom and rename it to Place Order
 
 
-Input field =Name ; 
-
-Button = Place order
-<br>![](/exercises/Exercise_2/images/image(37).png)
-
-Drag another title here:
-
-
-Title= Your Details
 <br>![](/exercises/Exercise_2/images/image(38).png)
 
- 
-Input field =Name
- 
-Button = Place order
 
-Click on Save
+38. Click on Save
 
 Click on Add logic
 <br>![](/exercises/Exercise_2/images/image(39).png)
