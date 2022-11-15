@@ -30,7 +30,7 @@
 
 <br>![](/exercises/Exercise_2/images/image(9).png)
 
-9. You can now select both these entities and click on Save to save your changes
+9. You can now enable both these data entities and click on Save to save your changes
 <br>![](/exercises/Exercise_2/images/image(10).png)
 
 
