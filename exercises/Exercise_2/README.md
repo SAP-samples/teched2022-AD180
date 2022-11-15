@@ -34,8 +34,6 @@ You can now select both these entities and click on Save to save your changes
 <br>![](/exercises/Exercise_2/images/image(10).png)
 
 
-# Also you can add data as you did in STEP 6from the frontend (Your preference)
-
 1.Click on the data tab. 2. Select product to add your desired record. 3. Click Browse data
 <br>![](/exercises/Exercise_2/images/image(11).png)
 
