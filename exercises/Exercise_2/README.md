@@ -24,7 +24,7 @@
 7. Select the backend visual cloud function that you created;
 <br>![](/exercises/Exercise_2/images/image(7).png)
 
-8. Install your integration
+8. CLick on Install Integration, to activate the Visual Cloud Function in this project
 <br>![](/exercises/Exercise_2/images/image(8).png)
 
 
