@@ -300,7 +300,7 @@ PLUCK(appVars.products,"id")
 75. Type in formula :
 
 
-"order placed for"+ outputs["Create record"].response.name
+"order placed for "+ outputs["Create record"].response.name
 
 
 This is print the dialog eg: Order placed for Simon
