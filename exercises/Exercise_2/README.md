@@ -252,26 +252,26 @@ Now we see we have name configured but  dont have an object and variable for pr
 
 <br>![](/exercises/Exercise_2/images/image(60).png)
 
-1.Click create record
-2. Click on Custom object
+62. Click create record
+63. Click on Custom object
 <br>![](/exercises/Exercise_2/images/image(61).png)
 
-Click on product value
+64. Click on product value
 <br>![](/exercises/Exercise_2/images/image(62).png)
 
-Select formula
+65. Select formula
 <br>![](/exercises/Exercise_2/images/image(63).png)
 
 
 <br>![](/exercises/Exercise_2/images/image(64).png)
 
-Use formula :
+66. Use the following formula :
 
 
 PLUCK(appVars.products,"id")
 <br>![](/exercises/Exercise_2/images/image(65).png)
 
-SAVE
+67. SAVE
 <br>![](/exercises/Exercise_2/images/image(66).png)
 
 
@@ -280,25 +280,24 @@ SAVE
 
 # Final Step : Add Dialogs&nbsp;
 
-Drag and Drop 2x Toast and connect to create record 
+68. Drag and Drop 2x Toast and connect to create record 
 <br>![](/exercises/Exercise_2/images/image(68).png)
 
-1.Click on the first toast
-2. then click the Toast message
+69. Click on the first toast
+70. then click the Toast message
 <br>![](/exercises/Exercise_2/images/image(69).png)
 
-Select output value of another node
+71. Select output value of another node
 <br>![](/exercises/Exercise_2/images/image(70).png)
 
-1. Select Create Record from Select logic node
-2. then select name from select node output
-3.save
+72. Select Create Record from Select logic node. Then select name from select node output
+73. Save
 <br>![](/exercises/Exercise_2/images/image(71).png)
 
-Select formula now
+74. Select formula now
 <br>![](/exercises/Exercise_2/images/image(72).png)
 
-Type in formula :
+75. Type in formula :
 
 
 "order placed for"+ outputs["Create record"].response.name
@@ -309,13 +308,13 @@ This is print the dialog eg: Order placed for Simon
 
 # Open App in Preview Portal
 
-1. Click launch
-2. Click open App in preview portal
+76. Click launch
+77. Click open App in preview portal
 <br>![](/exercises/Exercise_2/images/image(74).png)
 
-1,Select products you want
-2. Type in Name and
-3. Click Place order
+78. Select products you want
+79. Type in Name and
+80. Click Place order
 <br>![](/exercises/Exercise_2/images/image(75).png)
 
 
