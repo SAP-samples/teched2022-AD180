@@ -252,7 +252,7 @@ Now we see we have name configured but  dont have an object and variable for pr
 
 <br>![](/exercises/Exercise_2/images/image(60).png)
 
-62. Click create record
+62. Select the "create record" component in the logic editor for the place order button
 63. Click on Custom object
 <br>![](/exercises/Exercise_2/images/image(61).png)
 
