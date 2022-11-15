@@ -172,43 +172,41 @@ quantity= 0
 
 38. Click on Save
 
-Click on Add logic
+39. Click on Add logic
 <br>![](/exercises/Exercise_2/images/image(39).png)
 
 
 # Add Logic
 
 
-Click on place order button and Add logic to Empty page. Drag create logic from the core tab into the UI logic and add connector. Toggle to variables
+40. Click on "Place order" button and add logic to Empty page. Drag  the "create record" component from the core tab into the UI logic and add connector. Toggle to variables
 <br>![](/exercises/Exercise_2/images/image(40).png)
 
-Click Add app variable
+41. Click Add app variable
 <br>![](/exercises/Exercise_2/images/image(41).png)
 
-type in the variable "name" in the variable name textbox
+42. Type in the variable "name" in the variable name textbox
 <br>![](/exercises/Exercise_2/images/image(42).png)
 
-1. Toggle back to View
-2. Click on Name input field
-3. Now click on value under .property tab
+43. Toggle back to View. Click on Name input field. Now click on value under property tab
 <br>![](/exercises/Exercise_2/images/image(43).png)
 
-Click on Data and Variables
+44. Click on Data and Variables
 <br>![](/exercises/Exercise_2/images/image(44).png)
 
-Click on App Variables
+45. Click on App Variables
 <br>![](/exercises/Exercise_2/images/image(45).png)
 
-Select app variables= "name" from the drop down menu and then save
+46. Select app variables= "name" from the drop down menu and then save
 <br>![](/exercises/Exercise_2/images/image(46).png)
 
-Go back to UI Canvas. Click on Create record and then 3.Custom object 
+47. Go back to UI Canvas. Click on Create record and then Custom object 
 <br>![](/exercises/Exercise_2/images/image(47).png)
 
-Click on Data and Variables
+48. Click on Data and Variables
 <br>![](/exercises/Exercise_2/images/image(48).png)
 
-Click on App Variables
+49. Click on App Variables
 <br>![](/exercises/Exercise_2/images/image(49).png)
 
 
@@ -221,34 +219,32 @@ Now we see we have name configured but  dont have an object and variable for pr
 # Adding Another Variable
 
 
-1.Come back to UI Canvas
-2. Toggle to Variables
-3. Set variable name=products
-List item type= objects
-4. SAVE
+50. Come back to UI Canvas
+51. Toggle to Variables
+52. Create a new app variable and set variable name=products. Change variable value type=List. Change List item type to Objects
+53. SAVE
 <br>![](/exercises/Exercise_2/images/image(52).png)
 
-Click on Place order to view the button logic in the Logic pane below. Drag and drop set app variable connector from Logic core
+54. Click on "Place order" button to view the button logic in the Logic pane below. Drag and drop "set app variable" component from Logic core
 <br>![](/exercises/Exercise_2/images/image(53).png)
 
-1. Click on variable name
-2.Select products
+55. Click on variable name and select products
 <br>![](/exercises/Exercise_2/images/image(54).png)
 
-SAVE
+56. SAVE
 <br>![](/exercises/Exercise_2/images/image(55).png)
 
-1. select binding icon besidesCustom list
-2.Select Component properties
+57. Select binding icon besides Custom list
+58. Select Component properties
 <br>![](/exercises/Exercise_2/images/image(56).png)
 
-Select Another component's property or output value
+59. Select Another component's property or output value
 <br>![](/exercises/Exercise_2/images/image(57).png)
 
-Select component = basic list with selection on right 1
+60. Select component = basic list with selection on right 1
 <br>![](/exercises/Exercise_2/images/image(58).png)
 
-Select component property= basic list with selection on right 1 (Selected items) and then save
+61. Select component property= basic list with selection on right 1 (Selected items) and then save
 <br>![](/exercises/Exercise_2/images/image(59).png)
 
 # Connecting Set App Variable
