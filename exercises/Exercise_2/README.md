@@ -137,7 +137,7 @@ This will ensure only products that have greater than zero are retrieved from th
 29. Click Data
 <br>![](/exercises/Exercise_2/images/image(33).png)
 
-30. Click Browse data
+30. Click Browse data for the Products data entity
 <br>![](/exercises/Exercise_2/images/image(34).png)
 
 31. Click New record 
