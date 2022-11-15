@@ -24,7 +24,7 @@
 7. Select the backend visual cloud function that you created;
 <br>![](/exercises/Exercise_2/images/image(7).png)
 
-8. CLick on Install Integration, to activate the Visual Cloud Function in this project
+8. Click on Install Integration, to activate the Visual Cloud Function in this project
 <br>![](/exercises/Exercise_2/images/image(8).png)
 
 
@@ -52,10 +52,10 @@ quantity: 2
 
 # Creating Frond End UI
 
-12. Click component market
+12. Go back to the UI Canvas and select the component market by clicking Marketplace
 <br>![](/exercises/Exercise_2/images/image(15).png)
 
-13. Type selection in the search tab and choose "basic list with selection"
+13. Type "selection" in the search tab and choose "basic list with selection"
 <br>![](/exercises/Exercise_2/images/image(16).png)
 
 14. Click install
@@ -87,7 +87,7 @@ and click on content to type formula
 
 18. Type in the formula 
 
-source.record.quantity+ "available"
+source.record.quantity+ " available"
 
 
 This formula displays available quantity
