@@ -114,21 +114,6 @@ This will ensure only products that have greater than zero are retrieved from th
 23. Important: select now the "Save and Exit" button
 <br>![](/exercises/Exercise_2/images/image(26).png)
 
-24. Click on properties
-<br>![](/exercises/Exercise_2/images/image(27).png)
-
-25. Click No value under authentication
-<br>![](/exercises/Exercise_2/images/image(28).png)
-
-26. Select object with properties
-<br>![](/exercises/Exercise_2/images/image(29).png)
-
-27. Type in anything or nothing under authentication token and then save
-<br>![](/exercises/Exercise_2/images/image(30).png)
-
-28. Save and Exit
-<br>![](/exercises/Exercise_2/images/image(31).png)
-
 
 # Add more items/data through the frontend data tab to view if we add an item with quantity=0
 
