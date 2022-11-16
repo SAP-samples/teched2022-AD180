@@ -39,9 +39,10 @@
 
 11. Add the new product:
 
-name : keyboard
+> name : keyboard
 
-quantity: 2
+> quantity: 2
+
 <br>![](/exercises/Exercise_2/images/image(12).png)
 
 
@@ -73,13 +74,13 @@ quantity: 2
 From the field configuration, Drag
 
 
- Id to Id
+Id -> Id
  
  
-name to title
+name -> title
 
 
-selected= select the flash icon, delete the text in the formula and type in "false"
+selected: select the flash icon, delete the text in the formula and type in "false"
 
 
 and click on content to type formula
@@ -87,7 +88,7 @@ and click on content to type formula
 
 18. Type in the formula 
 
-source.record.quantity+ " available"
+> source.record.quantity+ " available"
 
 
 This formula displays the quantity field and adds the text " available"
@@ -134,9 +135,9 @@ You can do this by clicking on "Launch" in the top menu -> Open preview portal -
 Add the new product :
 
 
-name = webcam
+> name = webcam
 
-quantity= 0
+> quantity = 0
 
 As you can see, this product is not displayed because the quantity is 0.
 
@@ -258,7 +259,8 @@ Now we see we have name configured but  dont have an object and variable for pr
 66. Use the following formula :
 
 
-PLUCK(appVars.products,"id")
+> PLUCK(appVars.products,"id")
+
 <br>![](/exercises/Exercise_2/images/image(65).png)
 
 67. SAVE
@@ -290,7 +292,7 @@ PLUCK(appVars.products,"id")
 75. Type in formula :
 
 
-"order placed for "+ outputs["Create record"].response.name
+> "order placed for "+ outputs["Create record"].response.name
 
 
 This is print the dialog eg: Order placed for Simon
