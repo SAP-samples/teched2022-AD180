@@ -55,7 +55,7 @@ quantity: 2
 12. Go back to the UI Canvas and select the component market by clicking Marketplace
 <br>![](/exercises/Exercise_2/images/image(15).png)
 
-13. Type "selection" in the search tab and choose "basic list with selection"
+13. Type "selection" in the search tab and choose "basic list with selection on right"
 <br>![](/exercises/Exercise_2/images/image(16).png)
 
 14. Click install
