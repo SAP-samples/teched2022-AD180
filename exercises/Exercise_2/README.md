@@ -34,7 +34,7 @@
 <br>![](/exercises/Exercise_2/images/image(10).png)
 
 
-10. Click on the data tab. Select the data entity Product to add your desired record. Click on Browse data
+10. Select the data entity Product to add your desired record. Click on Browse data
 <br>![](/exercises/Exercise_2/images/image(11).png)
 
 11. Add the new product:
