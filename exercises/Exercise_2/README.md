@@ -264,6 +264,9 @@ You can select the wires by clicking and delete them with del/backspace. Setup t
 
 > PLUCK(appVars.products,"id")
 
+This will return each id property for each product currently in appVars.products. You can view an explanation for the PLUCK formula by clicking it in the formula editor (documentation is available in the right panel).
+
+
 <br>![](/exercises/Exercise_2/images/image(65).png)
 
 67. SAVE
