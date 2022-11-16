@@ -114,6 +114,9 @@ This will ensure only products that have greater than zero are retrieved from th
 23. Important: select now the "Save and Exit" button
 <br>![](/exercises/Exercise_2/images/image(26).png)
 
+At this point you could already preview the app if you want. 
+You can do this by clicking on "Launch" in the top menu -> Open preview portal -> open web preview
+
 
 # Add another product through the frontend data tab to view if we add an item with quantity=0
 
@@ -133,8 +136,10 @@ Add the new product :
 
 name = webcam
 
-
 quantity= 0
+
+As you can see, this product is not displayed because the quantity is 0.
+
 <br>![](/exercises/Exercise_2/images/image(36).png)
 
 # Fill in th UI form
