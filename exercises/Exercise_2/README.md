@@ -157,7 +157,7 @@ quantity= 0
 
 38. Click on Save
 
-39. Click on Add logic
+39. Select the button and Click on "Add logic to BUTTON 1"
 <br>![](/exercises/Exercise_2/images/image(39).png)
 
 
