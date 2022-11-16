@@ -22,12 +22,13 @@
 
 
 5. Entities Tab : Here you can create entities for your backend database
+
 Deployment Tab : Is used to deploy your backend to desired landscape
 
 <br>![](/exercises/Exercise_1/images/empty-canvas.png)
 
 
-6. Click on Add new towards bottom right of your screen to add new Entities
+6. Click on "Add new Entity" at the right side of your screen to add new Entities
 
 <br>![](/exercises/Exercise_1/images/create-entity.png)
 
