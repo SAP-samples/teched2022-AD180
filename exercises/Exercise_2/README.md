@@ -90,7 +90,7 @@ and click on content to type formula
 source.record.quantity+ " available"
 
 
-This formula displays available quantity
+This formula displays the quantity field and adds the text " available"
 eg: 12 available
 <br>![](/exercises/Exercise_2/images/image(22).png)
 
