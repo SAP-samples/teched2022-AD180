@@ -296,7 +296,6 @@ This will return each id property for each product currently in appVars.products
 This is print the dialog eg: Order placed for Simon
 <br>![](/exercises/Exercise_2/images/image(73).png)
 
-73. Select the second Toast message and add the text "error" as Toast Message.
 
 # Open App in Preview Portal
 
