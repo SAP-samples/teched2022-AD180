@@ -170,7 +170,8 @@ As you can see, this product is not displayed because the quantity is 0.
 # Add Logic
 
 
-40. Click on "Place order" button and add logic to Empty page. Drag  the "create record" component from the core tab into the UI logic and add connector. Toggle to variables
+40. Click on "Place order" button and add logic to Empty page. Drag  the "create record" component from the core tab into the UI logic and add connector. Open the variables tab using the toggle at the top right corner of the view canvas.
+
 <br>![](/exercises/Exercise_2/images/image(40).png)
 
 41. Click Add app variable
@@ -216,7 +217,9 @@ Now we see we have name configured but  dont have an object and variable for pr
 53. SAVE
 <br>![](/exercises/Exercise_2/images/image(52).png)
 
-54. Click on "Place order" button to view the button logic in the Logic pane below. Drag and drop "set app variable" component from Logic core
+54. Click on "Place order" button to view the button logic in the Logic pane below. Drag and drop "set app variable" component from Logic core.
+
+You can select the wires by clicking and delete them with del/backspace. Setup the node order such that "set app variable" comes first and then "create record" is connected to it.
 <br>![](/exercises/Exercise_2/images/image(53).png)
 
 55. Click on variable name and select products
