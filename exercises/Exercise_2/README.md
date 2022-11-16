@@ -15,7 +15,7 @@
 4. Click on the data tab
 <br>![](/exercises/Exercise_2/images/image(4).png)
 
-5. You can add a backend integration from here
+5. You can add a backend integration from here. Select the "Add Integration" button.
 <br>![](/exercises/Exercise_2/images/image(5).png)
 
 6. Select cloud function to navigate to your backend
