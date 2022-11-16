@@ -61,7 +61,7 @@ quantity: 2
 14. Click install
 <br>![](/exercises/Exercise_2/images/image(17).png)
 
-15. Close the marketplace and Drag the installed list into the UI
+15. Close the marketplace and Drag the installed list component into the UI canvas (you can find it at the top of the "installed" tab).
 <br>![](/exercises/Exercise_2/images/image(18).png)
 
 16. Then configure this to my product 
