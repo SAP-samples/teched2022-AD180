@@ -40,7 +40,7 @@ Deployment Tab : Is used to deploy your backend to desired landscape
 
 <br>![](/exercises/Exercise_1/images/product-and-order.png)
 
-9. Add new fields to your entity here. We will be adding "name" and "quantity " as the fields for product entity
+9. Add new fields to your entity here. We will be adding "name" and "quantity " as the fields for product entity by pressing "+ ADD NEW"
 
 <br>![](/exercises/Exercise_1/images/configure-fields.png)
 
