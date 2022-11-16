@@ -32,7 +32,7 @@ Deployment Tab : Is used to deploy your backend to desired landscape
 
 <br>![](/exercises/Exercise_1/images/create-entity.png)
 
-7. Your "product" entity is now created. Your "product" entity can be edited here. 
+7. Your "Product" entity is now created. Your "Product" entity can be edited here. 
 
 <br>![](/exercises/Exercise_1/images/product.png)
 
