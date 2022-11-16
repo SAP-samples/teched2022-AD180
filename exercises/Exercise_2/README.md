@@ -1,6 +1,6 @@
 # Exercise 2 - Front end App Creation
 
-1. Go back to Lobby and select the Create button to create the frontend. Select Build an Application. Afterwards select "Web & Mobile Application" 
+1. Go back to Lobby (should be open in another tab in your browser) and select the Create button to create the frontend. Select Build an Application. Afterwards select "Web & Mobile Application" 
 <br>![](/exercises/Exercise_2/images/image(1).png)
 
 2. Give a project name, description (optional )and click create
