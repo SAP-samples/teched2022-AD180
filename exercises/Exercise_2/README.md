@@ -115,7 +115,7 @@ This will ensure only products that have greater than zero are retrieved from th
 <br>![](/exercises/Exercise_2/images/image(26).png)
 
 
-# Optional: Add more products through the frontend data tab to view if we add an item with quantity=0
+# Add another product through the frontend data tab to view if we add an item with quantity=0
 
 <br>![](/exercises/Exercise_2/images/image(32).png)
 
