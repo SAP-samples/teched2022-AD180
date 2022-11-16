@@ -185,7 +185,7 @@ quantity= 0
 46. Select app variables= "name" from the drop down menu and then save
 <br>![](/exercises/Exercise_2/images/image(46).png)
 
-47. Go back to UI Canvas. Click on Create record and then Custom object 
+47. Go back to UI Canvas. Select the "Plcae Order" button and click on Create record component and then Custom object in the properties
 <br>![](/exercises/Exercise_2/images/image(47).png)
 
 48. Click on Data and Variables
