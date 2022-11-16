@@ -145,7 +145,7 @@ quantity= 0
 
 34. Rename the text field to "Select the items you want to order"
 
-35. Drag another title below the list and rename it to "Your Details":
+35. Drag another title from the CORE Components below the list and rename it to "Your Details":
 
 36. Drag an input field and rename it to "Name"
 
