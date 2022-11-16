@@ -278,10 +278,10 @@ This will return each id property for each product currently in appVars.products
 
 # Final Step : Add Dialogs&nbsp;
 
-68. Drag and Drop 2x Toast and connect to create record 
+68. Drag and Drop a Toast component and connect to create record to the upper port
 <br>![](/exercises/Exercise_2/images/image(68).png)
 
-69. Click on the first toast
+69. Click on the toast component
 70. then click the Toast message
 <br>![](/exercises/Exercise_2/images/image(69).png)
 
