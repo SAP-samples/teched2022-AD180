@@ -282,20 +282,13 @@ This will return each id property for each product currently in appVars.products
 <br>![](/exercises/Exercise_2/images/image(68).png)
 
 69. Click on the toast component
-70. then click the Toast message
+70. then click the Toast message icon
 <br>![](/exercises/Exercise_2/images/image(69).png)
 
-71. Select output value of another node
-<br>![](/exercises/Exercise_2/images/image(70).png)
-
-72. Select Create Record from Select logic node. Then select name from select node output
-73. Save
-<br>![](/exercises/Exercise_2/images/image(71).png)
-
-74. Select formula now
+71. Select Formula
 <br>![](/exercises/Exercise_2/images/image(72).png)
 
-75. Type in formula :
+72. Type in formula :
 
 
 > "order placed for "+ outputs["Create record"].response.name
@@ -304,17 +297,17 @@ This will return each id property for each product currently in appVars.products
 This is print the dialog eg: Order placed for Simon
 <br>![](/exercises/Exercise_2/images/image(73).png)
 
-76. Select the second Toast message and add the text "error" as Toast Message.
+73. Select the second Toast message and add the text "error" as Toast Message.
 
 # Open App in Preview Portal
 
-76. Click launch
-77. Click open App in preview portal
+74. Click launch
+75. Click open App in preview portal
 <br>![](/exercises/Exercise_2/images/image(74).png)
 
-78. Select products you want
-79. Type in Name and
-80. Click Place order
+76. Select products you want
+77. Type in Name and
+78. Click Place order
 <br>![](/exercises/Exercise_2/images/image(75).png)
 
 
