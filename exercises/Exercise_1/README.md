@@ -6,7 +6,7 @@
 
 
 
-2. Click on "Application backend" to create your project
+2. Click on the "Create" button in the lobby. Select "Build an Application" and afterwards "Application backend" to create your project
 
 <br>![](/exercises/Exercise_1/images/image-1-2.png)
 
