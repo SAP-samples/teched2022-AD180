@@ -283,7 +283,6 @@ This will return each id property for each product currently in appVars.products
 
 69. Click on the toast component
 70. then click the Toast message icon
-<br>![](/exercises/Exercise_2/images/image(69).png)
 
 71. Select Formula
 <br>![](/exercises/Exercise_2/images/image(72).png)
