@@ -72,7 +72,7 @@ Field type: "number"
 | name  | Text  | -      
 | product | List  | Text
 
-10. Your can now see your entities and the fields on the canvas
+10. Your can now see your entities and the fields on the canvas. Press the "SAVE APP" button to save the backend.
 
 <br>![](/exercises/Exercise_1/images/product-and-order-done.png)
 
