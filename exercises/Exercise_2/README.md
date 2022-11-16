@@ -173,7 +173,7 @@ quantity= 0
 42. Type in the variable "name" in the variable name textbox
 <br>![](/exercises/Exercise_2/images/image(42).png)
 
-43. Toggle back to View. Click on Name input field. Now click on value under property tab
+43. Toggle back to View. Click on Name input field. Now click the "X" icon on Value under property tab
 <br>![](/exercises/Exercise_2/images/image(43).png)
 
 44. Click on Data and Variables
