@@ -291,6 +291,8 @@ PLUCK(appVars.products,"id")
 This is print the dialog eg: Order placed for Simon
 <br>![](/exercises/Exercise_2/images/image(73).png)
 
+76. Select the second Toast message and add the text "error" as Toast Message.
+
 # Open App in Preview Portal
 
 76. Click launch
