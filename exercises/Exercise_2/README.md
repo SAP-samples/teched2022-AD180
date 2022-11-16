@@ -79,7 +79,7 @@ From the field configuration, Drag
 name to title
 
 
-selected= type in "false"
+selected= select the flash icon, delete the text in the formula and type in "false"
 
 
 and click on content to type formula
