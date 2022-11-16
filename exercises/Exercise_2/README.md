@@ -94,24 +94,24 @@ This formula displays available quantity
 eg: 12 available
 <br>![](/exercises/Exercise_2/images/image(22).png)
 
-19. Click on properties and click on filter afterwards
+19. Click on properties, afterwards on OPTIONAL and click on "Filter conditions" afterwards
 <br>![](/exercises/Exercise_2/images/image(23).png)
 
 20. select object with properties
 <br>![](/exercises/Exercise_2/images/image(24).png)
 
-21. Select add conditions
+21. Select add condition
 <br>![](/exercises/Exercise_2/images/image(25).png)
 
 22. Add the condition :
 
 
-quantity greater than 0.
+quantity greater than 0. Press the save button.
 
 
 This will ensure only products that have greater than zero are retrieved from the database
 
-23. Save and Exit
+23. Important: select now the "Save and Exit" button
 <br>![](/exercises/Exercise_2/images/image(26).png)
 
 24. Click on properties
