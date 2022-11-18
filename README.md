@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-AD180)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-AD180)
+
 # AD180 - Visually Build a Full-Stack Application with SAP Build Apps
 
 ## Description
