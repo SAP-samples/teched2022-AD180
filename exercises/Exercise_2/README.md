@@ -311,9 +311,54 @@ This is print the dialog eg: Order placed for Simon
 
 Viola, Congratulations !! The order has been placed and we end our scenario here :)
 
-# Optional Part
+# Optional Part for Experts
 o1. Select the "Place Order Button". Add an Alert component  after the create record and connect it to the second port (the error port). Add the following formular as Dialog title:
 
 > outputs["Create record"].error.message
 
 o2. We would also like to reduce the quantity of the ordered product. Therefore we have to update the records of the products in Visual Cloud Functions. 
+
+o2a. Select the "Place Order button". Delete the connection next to the Toast message "order placed ...". 
+ Add an "If condition" next to the success case of the "Create record". Set the formula to:
+
+> COUNT(appVars.products)>0
+
+<br>![](/exercises/Exercise_2/images/image(77).png)
+
+o2b. Add a "Get record" component next to the success case of the if condition to get the current quantity of the selected product. Select resource name "Product". Add the following as ID:
+
+> appVars.products[0].id
+
+<br>![](/exercises/Exercise_2/images/image(78).png)
+
+o2c. Add a "Update record" component next to the success case of the "get record". Select resource name "Product". Add the following as ID:
+
+> appVars.products[0].id
+
+o2d. Select "Custom object" in the "update record" component and add the following formula as quantity, to reduce the quantity by 1.
+
+> outputs["Get record"].record.quantity -1
+
+<br>![](/exercises/Exercise_2/images/image(79).png)
+
+o2e. Add a "Set app variable" component and connect it to the success case of the "Update Record" component. Select products as Variable name and remove the first product of the list with the following formula:
+
+> REMOVE_ITEM(appVars.products, index == 0)
+
+<br>![](/exercises/Exercise_2/images/image(80).png)
+
+o2f. Connect the set App variable with the input port of the if condition to start the process again.
+
+<br>![](/exercises/Exercise_2/images/image(81).png)
+
+o2g. Add a JavaScript component and connect it to the false case of the if condition. Double-click the JS component and replace the code with the following to reload the page:
+
+> return { result: location.reload() };
+
+<br>![](/exercises/Exercise_2/images/image(82).png)
+
+o2h. Connect the "order placed "Toast message after the JS component.
+
+<br>![](/exercises/Exercise_2/images/image(83).png)
+
+DONE! Congratulation!
