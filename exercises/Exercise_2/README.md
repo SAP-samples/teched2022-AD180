@@ -310,3 +310,10 @@ This is print the dialog eg: Order placed for Simon
 
 
 Viola, Congratulations !! The order has been placed and we end our scenario here :)
+
+# Optional Part
+o1. Select the "Place Order Button". Add an Alert component  after the create record and connect it to the second port (the error port). Add the following formular as Dialog title:
+
+> outputs["Create record"].error.message
+
+o2.
