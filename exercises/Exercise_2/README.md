@@ -316,6 +316,8 @@ o1. Select the "Place Order Button". Add an Alert component  after the create re
 
 > outputs["Create record"].error.message
 
+<br>![](/exercises/Exercise_2/images/image(76).png)
+
 o2. We would also like to reduce the quantity of the ordered product. Therefore we have to update the records of the products in Visual Cloud Functions. 
 
 o2a. Select the "Place Order button". Delete the connection next to the Toast message "order placed ...". 
