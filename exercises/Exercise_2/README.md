@@ -12,7 +12,15 @@
 
 # Integrating Front end and Backend
 
-4. Click on the data tab
+4.1. Click on the Auth tab and click on the "Enable Authentication" button
+<br>![](/exercises/Exercise_2/images/image(84).png)
+
+4.2. Select SAP BTP Authentication and confirm the pop-up with "OK".
+<br>![](/exercises/Exercise_2/images/image(85).png)
+
+Now an addtional authentication page is added to the app which logs on the user and allows us to access the SAP Build Apps backend.
+
+4.3. Click on the data tab
 <br>![](/exercises/Exercise_2/images/image(4).png)
 
 5. You can add a backend integration from here. Select the "Add Integration" button.
